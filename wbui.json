@@ -14,13 +14,13 @@
     },
     "tabs": [
       {
-        "tab2": {
+        "tab1": {
           "layout": 2,
-          "buttontext": "2 Box layout",
+          "buttontext": "info",
           "title1": "setting server",
           "title2": "info shop",
-          "text1": "infos/n- 4 players/n/n- élevages/nAccouplement x15/n- Eclosion x15/n- Maturation x5",
-          "text2": "This text goes into the right box",
+          "text1": "infos/n-4 players/n/n-élevages/nAccouplement x15/n-Eclosion x15/n-Maturation x5",
+          "text2": "ouvrir l'inventaire et click sur icone maison en bas a gauche",
           "imageurl": "https://i.imgur.com/mGt3cAF.png"
         }
       }
