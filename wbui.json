@@ -17,9 +17,9 @@
         "tab2": {
           "layout": 2,
           "buttontext": "2 Box layout",
-          "title1": "Left title",
-          "title2": "Right title",
-          "text1": "This text goes into the left box",
+          "title1": "setting server",
+          "title2": "info shop",
+          "text1": "infos/n -4 players/n/n -élevages/naccouplement x15/n -éclosion x15/n -maturation x5",
           "text2": "This text goes into the right box",
           "imageurl": "https://i.imgur.com/mGt3cAF.png"
         }
