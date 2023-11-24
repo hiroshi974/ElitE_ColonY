@@ -15,14 +15,16 @@
     "tabs": [
       {
         "tab1": {
-          "layout": 3,
+          "layout": 4,
           "buttontext": "info",
           "title1": "setting server",
-          "title2": "info shop",
+          "title4": "info shop",
           "title3": "Mods Server",
+          "title2": "setting server"
           "text1": "<TextStyle.Red>infos</>\n- 10 players\n\n<TextStyle.Yellow>BREEDING</>\n- Accouplement x15\n- Eclosion x15\n- Maturation x5\n\n<TextStyle.Yellow>STATISTIQUE</>\n- XP x2\n- Taming x5\n- Farming x15\n\n<TextStyle.Yellow>Multiplicateur par niveau</> <TextStyle.Blue>PLAYER</>\n- Stam x10\n- Poid x100\n- Resistance x10\n\n<TextStyle.Yellow>Multiplicateur par niveau</>  <TextStyle.Blue>DINO TAME</>\n- poid x100\n\n<TextStyle.Yellow>LEVEL</>\n- Lvl dino wild 150 max <TextStyle.Blue>(dino tek=180)</>\n- Lvl dino tame 300 max\n- Lvl player officiel",
-          "text2": "🇫🇷 ouvrir l'inventaire et click sur icone maison en bas a gauche",
+          "text4": "ouvrir l'inventaire et click sur icone maison en bas a gauche\nopen the inventory and click on the house icon at the bottom left",
           "text3": "spyglass\ncryopod/cryofridge (no delete dinos)\nark automated\nsolofarm\naddition reaper\naddition dino tek",
+          "text2": "<TextStyle.Red>infos</>\n- 10 players\n\n<TextStyle.Yellow>BREEDING</>\n- Mating x15\n- Hatching x15\n- Maturation x5\n\n<TextStyle.Yellow >STATISTICS</>\n- XP x2\n- Taming x5\n- Farming x15\n\n<TextStyle.Yellow>Multiplier per level</> <TextStyle.Blue>PLAYER</>\n- Stam x10\ n- Weight x100\n- Resistance x10\n\n<TextStyle.Yellow>Multiplier per level</> <TextStyle.Blue>DINO TAME</>\n- weight x100\n\n<TextStyle.Yellow>LEVEL< />\n- Lvl dino wild 150 max <TextStyle.Blue>(dino tek=180)</>\n- Lvl dino tame 300 max\n- Official Lvl player",
           "imageurl": "https://i.imgur.com/ogkgfFj.png"
         }
       }
